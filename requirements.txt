@@ -17,3 +17,6 @@ overrides
 chromadb
 langchain_community
 fsspec==2023.6.0
+python-dotenv
+openinference-instrumentation-langchain
+tk
